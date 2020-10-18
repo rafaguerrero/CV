@@ -1,0 +1,28 @@
+
+body {
+    background-color: beige;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#paper {
+    position: relative;
+    height: 100%;
+    background-color : white;
+    border : 1px solid #CCC;
+}
+
+#right {
+    right: 0;
+    width: 65%;
+}
+
+.column {
+    position: absolute;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+h3, p {
+    margin: 0;
+}
