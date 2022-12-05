@@ -1,0 +1,20 @@
+.personal {
+  background-color: #0A4C41;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 15px;
+
+  &-photo {
+    width: 100%;
+    
+    &-wrapper {
+      border: 2px solid #FAFAFA;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      overflow: hidden;
+    }
+  }
+}

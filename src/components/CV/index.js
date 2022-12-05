@@ -1,14 +1,16 @@
-import Entry from '../../components/Entry';
+import History from '../History';
+import Personal from '../Personal';
 import './styles.scss';
 
 function CV() {
   return (
     <div className="cv">
-      <h1>hola</h1>
-
-      <Entry/>
-      <Entry/>
-      <Entry/>
+      <div className="cv-right">
+        <Personal/>
+      </div>
+      <div className="cv-left">
+        <History />
+      </div>
     </div>
   );
 }
