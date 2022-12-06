@@ -1,10 +1,12 @@
 import './styles.scss';
 
-function Entry() {
+function Entry(props) {
   return (
-    <div className="entry">
-      <h2>Entry</h2>
-    </div>
+    <li className='entry'>
+      <p className="entry-title">{props.title}</p>
+      <p className="entry-date">{props.date}</p>
+      <p className="entry-desc">{props.description}</p>
+    </li>
   );
 }
 

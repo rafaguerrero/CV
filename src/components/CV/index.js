@@ -1,5 +1,7 @@
+import Education from '../Education';
 import History from '../History';
 import Personal from '../Personal';
+import Skills from '../Skills';
 import './styles.scss';
 
 function CV() {
@@ -10,6 +12,8 @@ function CV() {
       </div>
       <div className="cv-left">
         <History />
+        <Education />
+        <Skills />
       </div>
     </div>
   );

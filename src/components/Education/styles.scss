@@ -1,0 +1,17 @@
+.education {
+  &-entry {
+    font-size: 13px;
+    margin-bottom: 10px;
+
+    h3, p {
+      margin: 0;
+    }
+
+    .location {
+      font-style: italic;
+      opacity: 0.6;
+      text-transform: uppercase;
+      font-size: 1em;  
+    }
+  }
+}

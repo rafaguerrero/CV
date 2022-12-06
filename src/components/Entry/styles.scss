@@ -1,5 +1,25 @@
 .entry {
-  h2 {
+  margin-bottom: 5px; 
+  border-left: 1px solid #CCC;
+  padding-left: 15px;
+  font-size: 14px;
+
+  p {
     margin: 0;
+  }
+
+  .entry-title {
+    margin-right: 10px; 
+    font-weight: bold;
+    display: inline-block;
+  }
+
+  .entry-date {
+      text-transform: uppercase;
+      opacity: 0.5;
+      font-size: 0.8em;
+      font-weight: bold;
+      display: inline-block;
+      margin-left: 10px;
   }
 }

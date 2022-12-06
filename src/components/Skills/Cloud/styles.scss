@@ -1,0 +1,19 @@
+.skills-cloud {
+    font-size: 12px;
+    overflow: hidden;
+
+    h3 {
+        margin: 0;
+    }
+
+    table {
+        width: 100%;
+        margin-bottom: 10px;
+        table-layout: fixed;
+    }
+
+    &-value {
+        border-left: 1px solid #CCC;
+        padding-left: 10px;
+    }
+}
