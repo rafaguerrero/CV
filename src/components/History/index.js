@@ -12,8 +12,8 @@ function History() {
         <Entry title='CTO & Co-Founder'
                 date='2020 - 2022'
                 description={<>
-                  Creation of an app for student selfevaluation. <br/>
-                  Application sold to Metropolia University of Applied Sciences.
+                  In charge of all the tech related decitions.
+                  From managing the tech team to architecturing and implementing the product.
                 </>}/>
       </Company>
 
