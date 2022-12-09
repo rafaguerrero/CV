@@ -8,7 +8,7 @@ function Education() {
                     
       <div class="education-entry">
           <p><b>Bachelor Degree in Informatics Engineering</b></p>
-          <p class="location"><b>Facultad de Informática de Barcelona</b></p>
+          <p class="location"><b>Universitat Politècnica de Catalunya (UPC)</b></p>
           <p>2008 - 2013</p>
       </div>
       <div class="education-entry">
