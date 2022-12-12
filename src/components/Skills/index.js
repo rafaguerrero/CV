@@ -25,7 +25,7 @@ function Skills() {
         'Wordpress', 'Unix'
       ]}/>
 
-      <SkillsCloud title='Soft Skils' columns='3' names={[
+      <SkillsCloud title='Soft Skils' columns={3} names={[
         'Scrum', 'Agile methodologies', 'Team Lead',
         'Project Management', 'Public Speaking', 'Mentoring'
       ]}/>
