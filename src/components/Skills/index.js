@@ -9,19 +9,20 @@ function Skills() {
 
       <SkillsCloud title='Programming Languajes' names={[
         'HTML', 'JavaScript', 'Java', 'C', 'Mongo',
-        'CSS', 'Typescript', 'PHP', 'C++', 'SQL',
-        'SASS', 'AMP', 'Python', 'C#'
+        'CSS', 'Typescript', 'Bash', 'C++', 'SQL',
+        'SASS', 'PHP', 'Python', 'C#'
       ]}/>
 
       <SkillsCloud title='Frameworks' columns={4} names={[
         'ReactJS', 'Jest', 'PWA', 'Spring',  
-        'Express', 'jUnit', 'Push Not', 'Web Crawlers'
+        'Express', 'jUnit', 'Push Not', 'Web Crawlers',
+        'AMP'
       ]}/>
 
       <SkillsCloud title='Infrastructure' columns={3} names={[
         'GCP', 'Node', 'Jenkings',
         'AWS', 'Nginx', 'Git' , 
-        'Serverless Architecture', 'Tomcat', 'Bash', 
+        'Serverless Architecture', 'Tomcat',
         'Wordpress', 'Unix'
       ]}/>
 

@@ -10,10 +10,6 @@ function SkillsCloud(props) {
     names = names.slice(columns);
   }
 
-  console.log("--------------");
-  console.log(groups);
-  console.log("--------------");
-
   return (
     <div className='skills-cloud'>
       <h3>{props.title}</h3>

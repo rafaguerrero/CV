@@ -13,7 +13,7 @@ function Personal() {
         <h2>Contact</h2>
         <p>C/ Hurtado 6 4o 4a ESC A, Barcelona, 08023, SPAIN</p>
         <p>+34 696 06 74 84</p>
-        <p>rguerreroclemente@gmail.com</p>
+        <p><a href="mailto:rguerreroclemente@gmail.com">rguerreroclemente@gmail.com</a></p>
         <p><a href="https://www.linkedin.com/in/rafagcl/">LinkedIn</a></p>
         <p><a href="https://github.com/rafaguerrero/">GitHub</a></p>
       </div>

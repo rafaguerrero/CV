@@ -12,8 +12,8 @@ function History() {
         <Entry title='CTO & Co-Founder'
                 date='2020 - 2022'
                 description={<>
-                  In charge of all the tech related decitions.
-                  From managing the tech team to architecturing and implementing the product.
+                  Developing the solution from 0 to MVP. <br/>
+                  Architecturing all the implementations while leading the tech team.
                 </>}/>
       </Company>
 
@@ -21,30 +21,18 @@ function History() {
         <Entry title='Principal Solutions Architect (BCN & NY)'
                 date='Sep 2018 - Mar 2021'
                 description={<>
-                  Responsible for all new client customizations and their correct configurations inside the Marfeel platform.
-                </>}/>
-        
-        <Entry title='Project Owner (NY)'
-                date='Sep 2018 - Jun 2020'
-                description={<>
-                  Responsible for the activation of all Marfeel US and LATAM clients.
-                  Defining the project, managing the tech teams priorities and providing support to live clients during the first weeks of activation.
-                </>}/>
-
-        <Entry title='Project Manager (BCN)'
-                date='Jun 2016 - Sep 2018'
-                description={<>
-                  Managing the team providing support to our existing clients.  
+                  Responsible for all Marfeel client's (old and new) customizations and their correct configurations inside the Marfeel platform.
                 </>}/>
         
         <Entry title='Tech Lead (BCN)'
                 date='Jun 2016 - Sep 2018'
                 description={<>
-                  Responsible for the solution of tech problems for the existing clients. 
+                  Leading the team responsible for solving the problems related to existing customers.<br/>
+                  Developing the most complext implementations.
                 </>}/>
         
         <Entry title='Full-stack Developer (BCN)'
-                date='Jan 2013 - Mar 2021'
+                date='Jan 2013 - Jun 2016'
                 description={<>
                   Developing features inside Marfeel for all our clients involving both Front and BackEnd.
                 </>}/>
