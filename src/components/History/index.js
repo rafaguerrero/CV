@@ -13,15 +13,15 @@ function History() {
                 date='2020 - 2022'
                 description={<>
                   Developing the solution from 0 to MVP. <br/>
-                  Architecturing all the implementations while leading the tech team.
+                  Architecturing and implementing all the product features while leading the tech team.
                 </>}/>
       </Company>
 
       <Company name='Marfeel'>
         <Entry title='Principal Solutions Architect (BCN & NY)'
-                date='Sep 2018 - Mar 2021'
+                date='Sep 2018 - Feb 2021'
                 description={<>
-                  Responsible for all Marfeel client's (old and new) customizations and their correct configurations inside the Marfeel platform.
+                  Responsible for all Marfeel client's customizations and their correct configurations inside the Marfeel platform.
                 </>}/>
         
         <Entry title='Tech Lead (BCN)'
@@ -51,8 +51,7 @@ function History() {
         <Entry title='Junior FrontEnd Developer'
                 date='2008 - 2013'
                 description={<>
-                  Creator of content and developer of small functionalities 
-                  via CMS plugins and javascript.
+                  Creator of content and developer of small functionalities via CMS plugins and javascript.
                 </>}/>
       </Company>
     </div>
